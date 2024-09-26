@@ -1,3 +1,16 @@
 body{
-background-image:url(map.jpg) ;    
+background-color: azure ;    
+}
+h2{
+    color: blue;
+}
+#grad1{
+height: 200px;
+background: linear-gradient(to right, pink,yellow,lime,aqua);
+}
+
+#grad2{
+    height: 300px;
+    width: 300px;
+    background: radial-gradient(red,blue,yellow,green);
 }
